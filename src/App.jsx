@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      Sarthak Sonawane
+      Sarthak Sonawane is warrior
     </>
   )
 }
