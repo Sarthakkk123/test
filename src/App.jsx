@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      this is merger conflict
+      Sarthak Sonawane
     </>
   )
 }
